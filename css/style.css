@@ -1,0 +1,20 @@
+p {
+        font-size:16px;
+        color:white
+    }
+    td {
+        text-align:center;
+    }
+    ol {
+        background-color:#dddddd;
+
+        color:#CF6679;
+    }
+    .letters {
+        background-color:#BB86FC;
+        color:#000000
+    }
+    .pronounciation {
+        background-color:#3700B3;
+        color:#ffffff
+    }
